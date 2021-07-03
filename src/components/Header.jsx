@@ -5,7 +5,7 @@ const Header = () => {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid g-2 headerFontSize">
-          <a className="navbar-brand logoFont" href="/">
+          <a className="navbar-brand logoFont" href="/lms">
             LMS
           </a>
           <button
@@ -22,7 +22,7 @@ const Header = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <a className="nav-link active" aria-current="page" href="/lms">
                   Home
                 </a>
               </li>
