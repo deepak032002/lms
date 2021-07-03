@@ -1,0 +1,8 @@
+.bg-color-black{
+    background-color: black;
+    height: inherit;
+}
+
+.logoFont{
+    font-family: var(--lobsterTwo);
+}
