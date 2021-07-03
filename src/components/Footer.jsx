@@ -3,8 +3,9 @@ import React from 'react'
 const footer = () => {
     return (
         <>
-        <h1>Hello I am Footer</h1>
-        <h2>Hello Again from Footer</h2>
+            <div className="container d-flex justify-content-center align-items-center Info">
+                <h2>On Devlopement....</h2>
+            </div>
         </>
     )
 }

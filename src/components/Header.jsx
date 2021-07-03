@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <div className="container-fluid g-2 headerFontSize">
+        <div className="container-md g-2 headerFontSize">
           <a className="navbar-brand logoFont" href="/lms">
             LMS
           </a>

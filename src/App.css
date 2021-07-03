@@ -6,3 +6,7 @@
 .logoFont{
     font-family: var(--lobsterTwo);
 }
+
+.Info{
+    height: 100vh;
+}
